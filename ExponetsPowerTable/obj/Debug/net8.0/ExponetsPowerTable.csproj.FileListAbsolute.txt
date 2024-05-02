@@ -1,0 +1,14 @@
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\bin\Debug\net8.0\ExponetsPowerTable.exe
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\bin\Debug\net8.0\ExponetsPowerTable.deps.json
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\bin\Debug\net8.0\ExponetsPowerTable.runtimeconfig.json
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\bin\Debug\net8.0\ExponetsPowerTable.dll
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\bin\Debug\net8.0\ExponetsPowerTable.pdb
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\ExponetsPowerTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\ExponetsPowerTable.AssemblyInfoInputs.cache
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\ExponetsPowerTable.AssemblyInfo.cs
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\ExponetsPowerTable.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\ExponetsPowerTable.dll
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\refint\ExponetsPowerTable.dll
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\ExponetsPowerTable.pdb
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\ExponetsPowerTable.genruntimeconfig.cache
+C:\Users\ramse\source\repos\ExponetsPowerTable\ExponetsPowerTable\obj\Debug\net8.0\ref\ExponetsPowerTable.dll
